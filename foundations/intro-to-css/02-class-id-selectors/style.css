@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.odd {
+    background-color: #e58282;
+    font-family: "DejaVu Sans", Verdana, sans-serif;
+
+}
+
+#second-element {
+    color: hsl(219, 95%, 36%);
+    font-size: 36px;
+}
+
+.diff-size {
+    font-size: 24px;
+}
+
+#forth-element {
+    background-color: #87f9b8;
+    font-weight: bold;
+}
